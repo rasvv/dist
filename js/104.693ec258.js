@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_ikso"]=self["webpackChunkvue_ikso"]||[]).push([[104],{5104:function(n,a,e){e.r(a),e.d(a,{default:function(){return d}});var s=e(6252);const u={class:"advantage"},t=(0,s._)("h1",null,"This is an advantage page",-1),r=[t];function i(n,a){return(0,s.wg)(),(0,s.iD)("div",u,r)}var c=e(3744);const v={},o=(0,c.Z)(v,[["render",i]]);var d=o}}]);
+//# sourceMappingURL=104.693ec258.js.map
